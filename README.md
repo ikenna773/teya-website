@@ -1,5 +1,5 @@
 TEYA — Tech Empowerment for Young Africans
-Official website for the TEYA non-profit initiative, founded by Ikenna Okanya.
+Official website for the TEYA non-profit initiative, founded by Ikenna Okanya and Joy Makanga.
 🌍 About
 TEYA empowers young Africans from Nigeria and Kenya by providing access to computers, coding education, and digital resources — enabling them to pursue careers across the full spectrum of tech disciplines.
 🚀 Hosting on GitHub Pages (Free)
